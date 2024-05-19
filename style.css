@@ -182,13 +182,21 @@ body {
   font-weight: 300;
 }
 
-.story,
-.gifts {
+.story {
   padding-top: 8rem;
   padding-bottom: 10rem;
   background-image: url(img/rusa\ jalan.jpg);
   background-size: cover;
   min-height: 100vh;
+  margin-top: -6.5rem;
+}
+
+.gifts {
+  padding-top: 8rem;
+  padding-bottom: 10rem;
+  background-image: url(img/rusa\ jalan.jpg);
+  background-size: cover;
+  min-height: 60vh;
   margin-top: -6.5rem;
 }
 
