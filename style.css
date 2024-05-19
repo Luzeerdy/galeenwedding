@@ -480,15 +480,15 @@ footer li {
 /* mobile phone */
 @media (max-width: 576px) {
   html {
-    font-size: 60%;
+    font-size: 50%;
   }
 
   .timeline li .timeline-img {
-    width: 100px;
-    height: 100px;
+    width: 98px;
+    height: 98px;
   }
 
   .timeline li .timeline-panel {
-    width: 65%;
+    width: 45%;
   }
 }
