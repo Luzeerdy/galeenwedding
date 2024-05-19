@@ -491,10 +491,6 @@ footer li {
     font-size: 55%;
   }
 
-  .home {
-    min-height: 90vh;
-  }
-
   .timeline li .timeline-img {
     width: 98px;
     height: 98px;
