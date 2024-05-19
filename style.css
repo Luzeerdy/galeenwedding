@@ -493,6 +493,7 @@ footer li {
 
   .home {
     min-height: 60vh;
+    padding-bottom: 5rem;
   }
 
   .timeline li .timeline-img {
