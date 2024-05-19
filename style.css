@@ -109,7 +109,7 @@ body {
 
 .home p {
   color: #666;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
 }
 
 .home .couple {
@@ -488,7 +488,7 @@ footer li {
 /* mobile phone */
 @media (max-width: 576px) {
   html {
-    font-size: 50%;
+    font-size: 55%;
   }
 
   .timeline li .timeline-img {
